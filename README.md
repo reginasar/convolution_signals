@@ -1,1 +1,3 @@
-# convolution_signals
+Repository under construction...
+
+# Understanding CNNs with signal analysis
